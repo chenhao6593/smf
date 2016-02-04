@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1454598657 < time()) $expired = true; else{$expired = false; $value = 's:18:"activate.adobe.com";';}?>
